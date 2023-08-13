@@ -1,0 +1,57 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 ml",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 ml",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://media.istockphoto.com/id/497892585/id/foto/es-teh-buatan-sendiri-dengan-lemon.jpg?s=612x612&w=0&k=20&c=xfY4eD7Kuu5EHm1ebL3J7ZKOoLaf2qyXX8z5oSRfJfY=",
+            "nama": "Lemon Tea",
+            "size": "200 ml",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?sca_esv=555852541&sxsrf=AB5stBjtZqteyyjGHr43WrNny6X_WqusKQ:1691749029277&q=lemon+tea&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiamMGfsNSAAxXI4TgGHS54BuUQ0pQJegQICRAB&biw=1366&bih=643&dpr=1"
+        },
+        {
+            "foto": "https://cdn0-production-images-kly.akamaized.net/6D_PRP-trj53B0gZMV54v08K448=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4210800/original/044475400_1667291348-food-photographer-jennifer-pallian-sSnCZlEWN5E-unsplash.jpg",
+            "nama": "Es Teh",
+            "size": "200 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+teh&source=lmns&tbm=shop&bih=643&biw=1366&hl=id&sa=X&ved=2ahUKEwi54trRsNSAAxXQ_zgGHXPKAYsQ0pQJKAJ6BAgBEAY"
+        }
+    ]
+}
